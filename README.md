@@ -7,7 +7,7 @@ In this 'series' I will create Python notebooks for different topics and provide
 As each device is different there is no real guarantee that these Python notebooks will work right off the bat. I would recommend you download [Anaconda](https://www.anaconda.com/download), an environment for coding in Python. This will enable you to get a seamless experience writing code and will make it easier to get to the root of the problem should it arise. 
 
 **Lessons**
-1. Data Storage and Data Types (Download Here)
+1. Data Storage and Data Types [Download Here](https://github.com/Nihal-m24/Learning_Python/blob/e560fead8d5e032e3bf750c831bb66fa511fa30b/Lesson_1.ipynb)
 
 
 
